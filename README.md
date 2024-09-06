@@ -13,7 +13,8 @@
 ### AI Model Detail
 - Pre-trained Large Language Model(LLM) FLANT-5 from Hugging Face
 - List of avialable models and documentation from Hugging Face can be referred [here](https://huggingface.co/docs/transformers/index)
-### Librarires
+### DataSets 
+- We uploaded some simple dialogues from the [DialogSum](https://huggingface.co/datasets/knkarthick/dialogsum) Hugging Face dataset. This dataset contains 10,000+ dialogues with the corresponding human labeled summaries and topics. 
 
 ### Project Steps
 
