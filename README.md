@@ -40,7 +40,9 @@ ___
 ### Results
 * In this case, few shot did not provide much of an improvement over one shot inference.
 * And, anything above 5 or 6 shot will typically not help much, either.
-* Also, you need to make sure that you do not exceed the model's input-context length which, in our case, if 512 tokens. Anything above the context length will be ignored.
+---
+### Limitations
+* Please make sure that you do not exceed the model's input-context length which, in our case, if 512 tokens. Anything above the context length will be ignored.
 ---
 ### References
 * [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
