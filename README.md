@@ -6,7 +6,7 @@
 - [AI Model Details](#ai-model-details)
 - [DataSets](#datasets)
 - [Project Steps](#project-steps)
-- [Results](#result)
+- [Results](#results)
 ---
 ### Project Objective: To study dialogue summarization task using generative AI Pre-Trained LLM Model (FLAN-T5) and impacts of prompt engineering to achieve desired outcomes.
 * We will explore the impact of input text on the output of the model
